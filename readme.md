@@ -15,6 +15,3 @@
 - transformers >= 4.20.0
 - 其他依赖见 `requirements.txt`
 
-## 快速开始
-
-1. 克隆项目代码
